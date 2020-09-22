@@ -6,6 +6,7 @@ public class MyTestofGit {
 		// TODO Auto-generated method stub
 		System.out.println("its working");
 		System.out.println("update");
+		System.out.println("hi all,");
 		
 
 	}
